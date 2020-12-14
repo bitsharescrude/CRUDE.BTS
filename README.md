@@ -50,4 +50,4 @@ Each BitAsset has a feed that is provided by the witnesses that indicate a fair 
 This so called Settlement Price or Feed Price is used to margin call positions that borrowed BitAssets and can no longer maintain the minimum collateral ratio (i.e. maintenance collateral ratio).
 The collateral of these positions is used to buy back the debt from the market automatically and the position will be closed.
 By these rules, the network enforces the exchange participants to always maintain a collateral that is higher than the minimum requirement.
-Currently, the minimum required collateral ratio is 175% but can be changed by the witnesses.
+Currently, the minimum required collateral ratio is 150% but can be changed by the witnesses.
