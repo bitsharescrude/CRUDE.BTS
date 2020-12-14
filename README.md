@@ -27,14 +27,14 @@ This Asset follows the daily price of bitshares in Naira and is backed by CRUDE.
 - Enable market fee
 
 # Settlement
-- Force settlement delay(hours) 24.0
-- Max. settlement each period (50.0%)
+- Force settlement delay(hours) 1.0
+- Max. settlement each period (100.0%)
 
 - Backing asset CRUDE.NGN
-- Feed lifetime (hours) 24.0
+- Feed lifetime (hours) 144.0
 - Minimum feeds 1
-- Maintenance collateral ratio (MCR) 1.75
-- Maximum short squeeze ratio (MSSR) 1.5
+- Maintenance collateral ratio (MCR) 1.5
+- Maximum short squeeze ratio (MSSR) 1.25
 
 # CRUDE.BTS Protocol
 HTLC, Private memo and merchant
