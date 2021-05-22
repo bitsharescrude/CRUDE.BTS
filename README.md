@@ -51,3 +51,6 @@ This so called Settlement Price or Feed Price is used to margin call positions t
 The collateral of these positions is used to buy back the debt from the market automatically and the position will be closed.
 By these rules, the network enforces the exchange participants to always maintain a collateral that is higher than the minimum requirement.
 Currently, the minimum required collateral ratio is 150% but can be changed by the witnesses.
+# PRICE FEED MECHANISM
+CORE EXCHANGE RATE (CER) = 2
+FEED PRICE = CNY_BTS/100
