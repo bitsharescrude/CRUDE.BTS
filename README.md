@@ -34,7 +34,7 @@ This Asset follows the daily price of bitshares in Naira and is backed by CRUDE.
 - Feed lifetime (hours) 144.0
 - Minimum feeds 1
 - Maintenance collateral ratio (MCR) 1.5
-- Maximum short squeeze ratio (MSSR) 1.25
+- Maximum short squeeze ratio (MSSR) 1.05
 
 # CRUDE.BTS Protocol
 HTLC, Private memo and merchant
