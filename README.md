@@ -41,7 +41,9 @@ HTLC, Private memo and merchant
 # Asset class
  Private Bitasset, Non-Custodial, margin cryptocurrency
 # Account Authority
-vnc7
+crude-ngn
+# Reserve Accounts
+<a href = "https://wallet.bitshares.org/#/account/crude-ngn" > crude-ngn </a>
 # Market Restrictions
 (N/B other tradeable assets may be owned by fraudsters trade with caution)
 
